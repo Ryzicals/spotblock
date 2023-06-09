@@ -1,0 +1,154 @@
+{
+    "lang": {
+        "version": "1.2.10",
+        "language": "Russian"
+    },
+    "1": {
+        "match": "\"To Enhance this playlist, you.ll need to go online.\"",
+        "replace": "\"Чтобы улучшить этот плейлист, вам нужно подключиться к интернету.\""
+    },
+    "2": {
+        "match": "\"Confirm your age\"",
+        "replace": "\"Подтвердите свой возраст\""
+    },
+    "3": {
+        "match": "\"%price%/month after. Terms and conditions apply. One month free not available for users who have already tried Premium.\"",
+        "replace": "\"%price%/месяц спустя. Принять условия. Один месяц бесплатно, недоступно для пользователей, которые уже попробовали Premium.\""
+    },
+    "4": {
+        "match": "\"Enjoy ad-free music listening, offline listening, and more. Cancel anytime.\"",
+        "replace": "\"Наслаждайтесь прослушиванием музыки без рекламы, прослушиванием в офлайн режиме и многим другим. Отменить можно в любое время.\""
+    },
+    "5": {
+        "match": "\"Offline storage location\"",
+        "replace": "\"Хранилище скачанных треков\""
+    },
+    "6": {
+        "match": "\"Click to start listening\"",
+        "replace": "\"Нажмите, чтобы начать прослушивание\""
+    },
+    "7": {
+        "match": "\"Change speed\"",
+        "replace": "\"Изменение скорости\""
+    },
+    "8": {
+        "match": "\"You need to be at least 19 years old to listen to explicit content marked with\"",
+        "replace": "\"Вам должно быть не менее 19 лет, чтобы слушать непристойный контент, помеченный значком\""
+    },
+    "9": {
+        "match": "\"Add to another playlist\"",
+        "replace": "\"Добавить в другой плейлист\""
+    },
+    "10": {
+        "match": "\"Add to this playlist\"",
+        "replace": "\"Добавить в этот плейлист\""
+    },
+    "11": {
+        "match": "\"Couldn.t connect to Spotify.\"",
+        "replace": "\"Не удалось подключиться к Spotify.\""
+    },
+    "12": {
+        "match": "\"No connection\"",
+        "replace": "\"Нет соединения\""
+    },
+    "13": {
+        "match": "\"Reconnecting...\"",
+        "replace": "\"Повторное подключение...\""
+    },
+    "14": {
+        "match": "\"Character counter\"",
+        "replace": "\"Счетчик символов\""
+    },
+    "15": {
+        "match": "\"Toggle lightsaber hilt. Current is [{]0[}].\"",
+        "replace": "\"Переключить рукоять светового меча. Текущий {0}.\""
+    },
+    "16": {
+        "match": "\"Song not available\"",
+        "replace": "\"Песня недоступна\""
+    },
+    "17": {
+        "match": "\"The song you.re trying to listen to is not available in HiFi at this time.\"",
+        "replace": "\"Песня, которую вы пытаетесь прослушать, в настоящее время недоступна в HiFi.\""
+    },
+    "18": {
+        "match": "\"Your Location\"",
+        "replace": "\"Ваше местоположение\""
+    },
+    "19": {
+        "match": "\"Network connection failed while playing this content.\"",
+        "replace": "\"Сбой сетевого подключения при воспроизведении этого контента.\""
+    },
+    "20": {
+        "match": "\"We.re not able to play this content in your current location.\"",
+        "replace": "\"Мы не можем воспроизвести этот контент в вашем текущем местоположении.\""
+    },
+    "21": {
+        "match": "\"This content is unavailable. Try another\\?\"",
+        "replace": "\"Этот контент недоступен. Попробуете другой?\""
+    },
+    "22": {
+        "match": "\"Sorry, we.re not able to play this content.\"",
+        "replace": "\"К сожалению, мы не можем воспроизвести этот контент.\""
+    },
+    "23": {
+        "match": "\"Hmm... we can.t seem to play this content. Try installing the latest version of Spotify.\"",
+        "replace": "\"Хм... похоже, мы не можем воспроизвести этот контент. Попробуйте установить последнюю версию Spotify.\""
+    },
+    "24": {
+        "match": "\"Please upgrade Spotify to play this content.\"",
+        "replace": "\"Пожалуйста, обновите Spotify, чтобы воспроизвести этот контент.\""
+    },
+    "25": {
+        "match": "\"This content cannot be played on your operating system version.\"",
+        "replace": "\"Этот контент нельзя воспроизвести в вашей версии операционной системы.\""
+    },
+    "26": {
+        "match": "\"Override certain user attributes to test regionalized content programming. The overrides are only active in this app.\"",
+        "replace": "\"Переопределите определенные атрибуты пользователя, чтобы протестировать региональное программирование контента. Переопределения активны только в этом приложении.\""
+    },
+    "27": {
+        "match": " was released this week!",
+        "replace": " был выпущен на этой неделе!"
+    },
+    "28": {
+        "match": "(\"one\": \"...name...) was released %years% year ago this week!\"",
+        "replace": "$1 был выпущен %years% год назад на этой неделе!\""
+    },
+    "29": {
+        "match": "(\"few\": \"...name...) was released %years% years ago this week!\"",
+        "replace": "$1 был выпущен %years% года назад на этой неделе!\""
+    },
+    "30": {
+        "match": "(\"many\": \"...name...) was released %years% years ago this week!\"",
+        "replace": "$1 был выпущен %years% лет назад на этой неделе!\""
+    },
+    "31": {
+        "match": "(\"other\": \"...name...) was released %years% years ago this week!\"",
+        "replace": "$1 был выпущен %years% года назад на этой неделе!\""
+    },
+    "32": {
+        "match": "\"Speed [{]0[}]×\"",
+        "replace": "\"Скорость {0}×\""
+    },
+    "33": {
+        "match": "(\"Filter options\"",
+        "replace": "\"Параметры фильтрации\""
+    },
+    "34": {
+        "match": "\"Artist\"",
+        "replace": "\"Исполнитель\""
+    },
+    "35": {
+        "match": "\"... of ...\"",
+        "replace": "\"{0} из {1}\""
+    },
+    "36": {
+        "match": "\"Не удалось изменить\"",
+        "replace": "\"Не удалось обновить\""
+    },
+    "37": {
+        "match": "\"Load more\"",
+        "replace": "\"Загрузи больше\""
+    }
+}
